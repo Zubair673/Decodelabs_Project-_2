@@ -64,7 +64,7 @@ Through this project, I practiced:
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Zubair673/Decodelabs_Project-_2.git>
 ```
 
 2. Install dependencies
